@@ -12,7 +12,7 @@
   "ps1_username": "visitor",
   "repo": "https://github.com/ishakdas/ishakdas.dev-ui",
   "blog": "https://site.ishakdas.dev",
-  "resume_url": "https://ishakdas.dev/public/ishak-akdas-cv.pdf",
+  "resume_url": "/ishak-akdas-cv.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
