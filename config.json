@@ -1,17 +1,18 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "title": "Ishakdas",
+  "name": "İshak Akdaş",
+  "ascii": "ishakdas",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "ishakdas",
+    "linkedin": "ishakdas"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "info@ishakdas.dev",
+  "ps1_hostname": "ishakdas",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/ishakdas/ishakdas.dev-ui",
+  "blog": "https://site.ishakdas.dev",
+  "resume_url": "https://ishakdas.dev/public/ishak-akdas-cv.pdf",
   "donate_urls": {
     "paypal": "https://paypal.me/cveinnt",
     "patreon": "https://patreon.com/cveinnt"
